@@ -1,0 +1,4 @@
+{
+  "name": "Personal Portfolio",
+  "description": "A full-stack simulated personal website featuring a portfolio, blog, and contact form. The backend is simulated using an API service layer and mock database."
+}
